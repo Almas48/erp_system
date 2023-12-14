@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "cetagory": "Branch",
+    "link": "/hrm/dashboard/manage-branch",
+    "tr1": "Branch",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 2,
+    "cetagory": "Department",
+    "link": "/hrm/dashboard/manage-department",
+    "tr1": "Branch",
+    "tr2": "Derpartment",
+    "tr3": "Action",
+    "td1": "",
+    "td2": "",
+    "td3": ""
+  },
+  {
+    "id": 3,
+    "cetagory": "Designation",
+    "link": "/hrm/dashboard/manage-designation",
+    "tr1": "Department",
+    "tr2": "Desination",
+    "tr3": "Action",
+    "td1": "",
+    "td2": "",
+    "td3": ""
+  },
+  {
+    "id": 4,
+    "cetagory": "Leave Type",
+    "link": "/hrm/dashboard/leave-type",
+    "tr1": "Leave Type",
+    "tr2": "Days / Year",
+    "tr3": "Action",
+    "td1": "",
+    "td2": "",
+    "td3": ""
+  },
+  {
+    "id": 5,
+    "cetagory": "Document Type",
+    "link": "/hrm/dashboard/manage-document",
+    "tr1": "Document",
+    "tr2": "Required Field",
+    "tr3": "Action",
+    "td1": "",
+    "td2": "",
+    "td3": ""
+  },
+  {
+    "id": 6,
+    "cetagory": "Payslip Type",
+    "link": "/hrm/dashboard/manage-payslip-type",
+    "tr1": "Payslip Type",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 7,
+    "cetagory": "Allowance Option",
+    "link": "/hrm/dashboard/manage-allowance-option",
+    "tr1": "Allowance Option",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 8,
+    "cetagory": "Loan Option",
+    "link": "/hrm/dashboard/manage-loan-option",
+    "tr1": "Loan Option",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 9,
+    "cetagory": "Deduction Option",
+    "link": "/hrm/dashboard/manage-deduction-option",
+    "tr1": "Deduction Option",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 10,
+    "cetagory": "Goal Type",
+    "link": "/hrm/dashboard/manage-goal-type",
+    "tr1": "Goal Type",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 11,
+    "cetagory": "Training Type",
+    "link": "/hrm/dashboard/manage-training-type",
+    "tr1": "Training",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 12,
+    "cetagory": "Award Type",
+    "link": "/hrm/dashboard/manage-award-type",
+    "tr1": "Award Type",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 13,
+    "cetagory": "Termination Type",
+    "link": "/hrm/dashboard/manage-termination-type",
+    "tr1": "Termination Type",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 14,
+    "cetagory": "Job Category",
+    "link": "/hrm/dashboard/manage-job-category",
+    "tr1": "Category",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 15,
+    "cetagory": "performance type",
+    "link": "/hrm/dashboard/manage-performance-type",
+    "tr1": "Name",
+    "tr2": "Action",
+    "td1": "",
+    "td2": ""
+  },
+  {
+    "id": 16,
+    "cetagory": "Competencies",
+    "link": "/hrm/dashboard/manage-competencies",
+    "tr1": "Name",
+    "tr2": "Type",
+    "tr3": "Action",
+    "td1": "",
+    "td2": "",
+    "td3": ""
+  },
+  {
+    "id": 17,
+    "cetagory": "Job stage",
+    "link": "/hrm/dashboard/manage-job-stage",
+    "JobStageComponent": "Job Stage"
+  }
+]
